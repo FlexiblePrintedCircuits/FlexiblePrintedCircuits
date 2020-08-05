@@ -20,7 +20,7 @@ Python, AWS, 暗号理論が好き。フレキシブル基板というハンド�
 - 小・中学生向けプログラミング教室の主催
   - IchigoJamを教えた
 - インターンシップ
-  TwoGate社とFignny社でサーバサイドエンジニアとしてインターンシップを行った。
+  - TwoGate社とFignny社でサーバサイドエンジニアとしてインターンシップを行った。
 
 ## リンク
 - Twitter: [@FPC_COMMUNITY](https://twitter.com/FPC_COMMUNITY)
